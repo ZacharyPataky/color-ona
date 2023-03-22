@@ -16,15 +16,15 @@ Here's my team, along with each member's roles:
 We all love some documentation, right? ...right?  Since some of the documentation doesn't lend well to README markup (presentations and formatting), I'm going to instead paste their shareable links here.  Feel free to check them out during your spare time.
 
 ### Text Documents
-Team Charter: https://docs.google.com/document/d/1fRMvA-mKZ_3RjW1EUtImnkx0tnrzD_MA-YLeD1UHgpY/edit?usp=sharing
-Game Proposal: https://docs.google.com/document/d/1rFGq3p2RLFBFv9bsr89tElggYXR6Hg1GUPitp9zGuyk/edit?usp=sharing
-Game Design Document: https://docs.google.com/document/d/1isgMewdHnseTfqioZ5QWcCyNc9O4agZDgx6U0eVokGA/edit?usp=sharing
-Final Release (Progress Report): https://docs.google.com/document/d/1Amv_-qJELzjW9gb-XxFHvsVMgBqcVgBQgFcCpyVH79M/edit?usp=sharing
+* Team Charter: https://docs.google.com/document/d/1fRMvA-mKZ_3RjW1EUtImnkx0tnrzD_MA-YLeD1UHgpY/edit?usp=sharing
+* Game Proposal: https://docs.google.com/document/d/1rFGq3p2RLFBFv9bsr89tElggYXR6Hg1GUPitp9zGuyk/edit?usp=sharing
+* Game Design Document: https://docs.google.com/document/d/1isgMewdHnseTfqioZ5QWcCyNc9O4agZDgx6U0eVokGA/edit?usp=sharing
+* Final Release (Progress Report): https://docs.google.com/document/d/1Amv_-qJELzjW9gb-XxFHvsVMgBqcVgBQgFcCpyVH79M/edit?usp=sharing
 
 ### Presentations
-Alpha Presentation: https://docs.google.com/presentation/d/1iz8k_JlEs0JloMsdDu0jOD6-vB53KEqdXVxZD50nLyg/edit?usp=sharing
-Beta Presentation: https://docs.google.com/presentation/d/11rPzrYuiXIghMJhPIp4IVcg5MxfsAnfE_sVqH2ujzJ8/edit?usp=sharing
-Final Presentation: https://docs.google.com/presentation/d/1BTlWMJnkzFF5cw0R11sj0LNyWn5ZqqI8gzyPaDiZiNc/edit?usp=sharing
+* Alpha Presentation: https://docs.google.com/presentation/d/1iz8k_JlEs0JloMsdDu0jOD6-vB53KEqdXVxZD50nLyg/edit?usp=sharing
+* Beta Presentation: https://docs.google.com/presentation/d/11rPzrYuiXIghMJhPIp4IVcg5MxfsAnfE_sVqH2ujzJ8/edit?usp=sharing
+* Final Presentation: https://docs.google.com/presentation/d/1BTlWMJnkzFF5cw0R11sj0LNyWn5ZqqI8gzyPaDiZiNc/edit?usp=sharing
 
 # Final Note
 Please message me if you want a personal copy of this game.  It'll be my pleasure to share the JAR file with you.
