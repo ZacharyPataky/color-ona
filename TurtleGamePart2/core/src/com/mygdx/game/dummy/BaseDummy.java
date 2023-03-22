@@ -1,0 +1,25 @@
+package com.mygdx.game.dummy;
+
+import com.badlogic.gdx.scenes.scene2d.Stage;
+import com.mygdx.game.BaseActor;
+
+public class BaseDummy extends BaseActor
+{
+    /////////////////////////////////////////////////////////////////////////////////
+    // VARIABLE
+
+    boolean visible;
+
+    /////////////////////////////////////////////////////////////////////////////////
+    // CONSTRUCTOR
+
+    public BaseDummy(float x, float y, Stage s)
+    {
+        super(x, y, s);
+    }
+
+    /////////////////////////////////////////////////////////////////////////////////
+    // METHOD
+
+    // FIXME
+}
