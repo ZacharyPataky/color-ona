@@ -26,5 +26,7 @@ We all love some documentation, right? ...right?  Since some of the documentatio
 * Beta Presentation: https://docs.google.com/presentation/d/11rPzrYuiXIghMJhPIp4IVcg5MxfsAnfE_sVqH2ujzJ8/edit?usp=sharing
 * Final Presentation: https://docs.google.com/presentation/d/1BTlWMJnkzFF5cw0R11sj0LNyWn5ZqqI8gzyPaDiZiNc/edit?usp=sharing
 
-# Final Note
+# Final Notes
 Please message me if you want a personal copy of this game.  It'll be my pleasure to share the JAR file with you.
+
+Egads!  After some cursory testing, I noticed that this isn't the actual *final* version of the game.  This version is incapable of infinitely generating the world map.  If I can find the time (to rewrite code I haven't seen in two years), I'll try fixing this.  Perhaps even tinker with the overall architecature.
