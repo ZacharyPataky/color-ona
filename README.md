@@ -6,7 +6,7 @@ From what I understand, most people hate their collegiate *Software Engineering*
 ## Team
 Here's my team, along with each member's roles:
 * Dr. Jeffrey Spauling - Class Professor
-* Edward S. Krauzowics - Teacher's Assistant
+* Edward S. Krauzowicz - Teacher's Assistant
 * Zachary A. Pataky - Project Manager / Programmer
 * Samuel Struble - Project Designer and Programmer
 * Christopher White - Researcher
